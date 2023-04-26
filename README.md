@@ -14,5 +14,8 @@ To do this, you need to set up the router as an NTP server using the "ntp master
 
 
 Install & run :
+
 1- pip install netmiko
+
 2- python3 ios-set-clock.py
+
